@@ -1,3 +1,3 @@
-# Data Visualization for Game of Thrones dataset 
+# Data Visualization for yard sale
 By using Inventory Data our company make a decision about continuing with the Yard Sale, we were able to do an integration with Power BI create a report using statistic parameters, the data visualizations can be visible from:
-- Opening the following link: https://drive.google.com/file/d/1-6pRZkODY8sysf4dIQO3A4WJrEYIKrgb/view?usp=drive_link
+- Opening the following link: https://app.powerbi.com/groups/me/reports/40633bcf-d76a-4e7b-b7cc-bf07d3296d31/ReportSection?experience=power-b
